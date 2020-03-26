@@ -1,0 +1,25 @@
+{
+  "name": "idle-bee-factory",
+  "version": "1.0.0",
+  "description": "Idle Bee Factory is a Discord bot that lets you sell virtual honey, buy better virtual bee hives, and much more virtual bee stuff!",
+  "main": "bot.js",
+  "author": "Floffah",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "debug": "^4.1.1",
+    "disclb": "0.0.77",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.3.0",
+    "lowdb": "^1.0.0"
+  },
+  "scripts": {
+    "start": "nodemon . --config nodemon.json",
+    "test": "npm start"
+  },
+  "engines": {
+    "node": "13.x"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "bees": 140,
+  "hives": 125,
+  "unhoney": 11875,
+  "honey": 0,
+  "money": 674743,
+  "rates": {
+    "onupdate": 1
+  },
+  "upgrades": {
+    "shop": 10,
+    "hives": 10,
+    "bee": 10,
+    "honey": 10
+  },
+  "cooldowns": {
+    "collect": 0
+  }
+}
